@@ -67,8 +67,7 @@ with open('FuckLyrics.txt', 'a') as file:
     #end
 sleep(0.2)
 print('歌词已经打印到"FuckLyrics.txt"中')
+sleep(1)
 
-#如若报错,请检查是否下载三方库 tqdm 和 sleep.
-#如果实在不清楚为何报错,可以联系作者 "https://github.com/bearkid6/FuckSchoolPYHomework"
 
  
